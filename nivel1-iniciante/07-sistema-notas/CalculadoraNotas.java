@@ -33,13 +33,12 @@ public class CalculadoraNotas {
                     if (notaMedia < 5 ){
                         System.out.print("Sua média é " + notaMedia + " Você esta Reprovado!");
 
-                    } else if (notaMedia >= 5 || notaMedia <= 6.9) {
-                        // TODO: bug apontado pelo mestre — este "||" ainda
-                        // deixa a condição sempre verdadeira. Trocar para
-                        // testar só o limite que falta.
-                        System.out.print("Sua média é " + notaMedia + " Você esta de Recuperação!");
+                    } else if (notaMedia <= 6.9) {
+
+                        System.out.print("Você esta de Recuperação!");
                     }else {
-                        System.out.print("Sua média é " + notaMedia + " Você esta de Aprovado!");
+
+                        System.out.print("Você esta de Aprovado!");
                     }
                 }
             }

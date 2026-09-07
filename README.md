@@ -17,8 +17,8 @@ Repositório com os exercícios práticos do meu roadmap de estudos em Java, do 
 - [x] [06 - Calculadora de Idade](nivel1-iniciante/06-calculadora-idade)
 
 **Seção: Estruturas Condicionais**
-- [ ] [07 - Sistema de Notas](nivel1-iniciante/07-sistema-notas) *(em andamento)*
-- [ ] Sistema Bancário
+- [x] [07 - Sistema de Notas](nivel1-iniciante/07-sistema-notas)
+- [x] [08 - Sistema Bancário](nivel1-iniciante/08-sistema-bancario)
 - [ ] Calculadora de Imposto
 - [ ] Jogo de Adivinhação
 
@@ -55,6 +55,8 @@ Ainda não iniciados — ver roadmap completo.
 ## Sobre cada exercício
 
 Cada pasta contém o código Java do exercício. Os comentários no código refletem o processo de aprendizado — incluindo correções de bugs reais encontrados durante o desenvolvimento (escopo de variável, exceções de Scanner, lógica condicional, etc).
+
+O exercício 08 (Sistema Bancário) foi o primeiro a introduzir loops (`while`) para criar um menu interativo que se repete até o usuário optar por sair.
 
 ## Como rodar
 
