@@ -22,8 +22,8 @@ Repositório com os exercícios práticos do meu roadmap de estudos em Java, do 
 
 - [x] [07 - Sistema de Notas](nivel1-iniciante/07-sistema-notas)
 - [x] [08 - Sistema Bancário](nivel1-iniciante/08-sistema-bancario)
-- [x] [Calculadora de Imposto](nivel1-iniciante/09-sistema-imposto)
-- [x] [Jogo de Adivinhação](nivel1-iniciante/10-jogo-de-adivinhação)
+- [x] [09 - Calculadora de Imposto](nivel1-iniciante/09-sistema-imposto)
+- [x] [10 - Jogo de Adivinhação](nivel1-iniciante/10-jogo-de-adivinhação)
 
 **Seção: Laços**
 
