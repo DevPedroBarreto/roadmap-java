@@ -27,7 +27,7 @@ Repositório com os exercícios práticos do meu roadmap de estudos em Java, do 
 
 **Seção: Laços**
 
-- [ ] Tabuada
+- [x] [11 - Tabuada](nivel1-iniciante/11-taboada)
 - [ ] Fatorial
 - [ ] Números Primos
 - [ ] Sequência Fibonacci
