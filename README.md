@@ -7,22 +7,26 @@ Repositório com os exercícios práticos do meu roadmap de estudos em Java, do 
 ### Nível 1 — Iniciante
 
 **Seção: Sintaxe**
+
 - [x] [01 - Calculadora](nivel1-iniciante/01-calculadora)
 - [x] [02 - Conversor de Temperatura](nivel1-iniciante/02-conversor-temperatura)
 - [x] [03 - Conversor de Moedas](nivel1-iniciante/03-conversor-moedas)
 - [x] [04 - Calculadora de IMC](nivel1-iniciante/04-calculadora-imc)
 
 **Seção: Entrada e Saída**
+
 - [x] [05 - Cadastro Simples](nivel1-iniciante/05-cadastro-simples)
 - [x] [06 - Calculadora de Idade](nivel1-iniciante/06-calculadora-idade)
 
 **Seção: Estruturas Condicionais**
+
 - [x] [07 - Sistema de Notas](nivel1-iniciante/07-sistema-notas)
 - [x] [08 - Sistema Bancário](nivel1-iniciante/08-sistema-bancario)
-- [ ] Calculadora de Imposto
-- [ ] Jogo de Adivinhação
+- [x] [Calculadora de Imposto](nivel1-iniciante/09-sistema-imposto)
+- [x] [Jogo de Adivinhação](nivel1-iniciante/10-jogo-de-adivinhação)
 
 **Seção: Laços**
+
 - [ ] Tabuada
 - [ ] Fatorial
 - [ ] Números Primos
@@ -30,22 +34,26 @@ Repositório com os exercícios práticos do meu roadmap de estudos em Java, do 
 - [ ] Caça-palavras simples
 
 **Seção: Métodos**
+
 - [ ] Calculadora completa
 - [ ] Biblioteca matemática
 - [ ] Sistema de login
 
 **Seção: Arrays**
+
 - [ ] Agenda
 - [ ] Controle de estoque
 - [ ] Notas de alunos
 
 **Seção: Strings**
+
 - [ ] Validador de CPF
 - [ ] Formatador de telefone
 - [ ] Palíndromos
 - [ ] Contador de palavras
 
 **Projeto Final**
+
 - [ ] Sistema de Biblioteca
 
 ### Níveis 2-6
