@@ -7,15 +7,22 @@ public class Primo {
         Scanner scanner = new Scanner(System.in);
         int numberuser = scanner.nextInt();
         boolean ehPrimo = true;
-
+    if(numberuser < 2){
+        System.out.println("Não é primo!");
+    }else{
         for (int i = 2; numberuser > i; i++){
             if (numberuser % i == 0) {
                 ehPrimo = false;
-                System.out.println(numberuser);
-                System.out.println(i);
+
                 break;
-                // encontrou um divisor! não precisa nem continuar testando
             }
         }
+        if (ehPrimo == true){
+            System.out.println("É primo!");
+        }else {
+            System.out.println("Não é primo!");
+        }
+
+    }
     }
 }
