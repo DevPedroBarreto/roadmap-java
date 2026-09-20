@@ -28,9 +28,9 @@ Repositório com os exercícios práticos do meu roadmap de estudos em Java, do 
 **Seção: Laços**
 
 - [x] [11 - Tabuada](nivel1-iniciante/11-taboada)
-- [ ] Fatorial
-- [ ] Números Primos
-- [ ] Sequência Fibonacci
+- [x] [12 - Fatorial](nivel1-iniciante/12-fatorial)
+- [x] [13 - Números Primos](nivel1-iniciante/13-primo)
+- [x] [14 - Sequência Fibonacci](nivel1-iniciante/14-fibonacci)
 - [ ] Caça-palavras simples
 
 **Seção: Métodos**
