@@ -31,11 +31,11 @@ Repositório com os exercícios práticos do meu roadmap de estudos em Java, do 
 - [x] [12 - Fatorial](nivel1-iniciante/12-fatorial)
 - [x] [13 - Números Primos](nivel1-iniciante/13-primo)
 - [x] [14 - Sequência Fibonacci](nivel1-iniciante/14-fibonacci)
-- [x] [Caça-palavras simples](nivel1-iniciante/15-caça-palavras)
+- [x] [15 - Caça-palavras simples](nivel1-iniciante/15-caça-palavras)
 
 **Seção: Métodos**
 
-- [ ] Calculadora completa
+- [x] [16 - Calculadora completa](nivel1-iniciante/16-calculadora-metodos)
 - [ ] Biblioteca matemática
 - [ ] Sistema de login
 
