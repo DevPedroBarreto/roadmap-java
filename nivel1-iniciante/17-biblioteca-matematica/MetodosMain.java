@@ -2,26 +2,24 @@ package metodosMain;
 
 public class MetodosMain {
     public static double potencia(double a, double b){
-        double resultado = 0;
-        return resultado = Math.pow(a, b); // 8.0;
+        return  Math.pow(a, b); // 8.0;
     }
     public static double raiz(double a){
         if(a<0){
+
             System.out.println("Raiz negativo");
+            return 0;
         }else {
             return Math.sqrt(a);
         }
     }
-    public static int ehPar(int a){
-        boolean numeroUser = true;
-        return (a % 2 == 0) ? numeroUser = true : numeroUser = false;
-        System.out.println("Numero escolhido é : "+numeroUser);
-
+    public static boolean ehPar(double a){
+        return a % 2 == 0;
     }
     public static double maiorEntreDois(double a, double b){
-        if(a<b){
+        if(a > b){
             return a;
-        }else if(a>b){
+        }else{
             return b;
         }
     }

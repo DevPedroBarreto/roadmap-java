@@ -48,28 +48,52 @@
 
 import java.util.Scanner;
 
-
 public class BibliotecaMain {
     public static void main(String[] args){
         System.out.println("Biblioteca Matematica");
-
-        System.out.println("Escolha uma operação que deseja descobrir: ");
-
+        System.out.println("MENU DE OPERAÇÕES: ");
         Scanner input = new Scanner(System.in);
+        System.out.println("Escolha Opção 1 para Potencia");
+        System.out.println("Escolha Opção 2 para Raiz");
+        System.out.println("Escolha Opção 3 para Par ou Impar");
+        System.out.println("Escolha Opção 4 para Maior entre");
         int opcao = input.nextInt();
 
         switch(opcao){
             case 1:
                 System.out.println("Opção 1");
+                System.out.println("Escolha DOIS numeros: ");
+                double num1 = input.nextDouble();
+                double num2 = input.nextDouble();
+                double resultado = metodosMain.MetodosMain.potencia(num1, num2);
+                System.out.println(resultado);
                 break;
             case 2:
                 System.out.println("Opcao 2");
+                System.out.println("Escolha UM numero: ");
+                double numRaiz = input.nextDouble();
+                double resultadoRaiz = metodosMain.MetodosMain.raiz(numRaiz);
+                System.out.println(resultadoRaiz);
                 break;
             case 3:
                 System.out.println("Opcao 3");
+                System.out.println("Escolha UM numero: ");
+                double numParImpar = input.nextDouble();
+                boolean resultadoParImpar = metodosMain.MetodosMain.ehPar(numParImpar);
+                if(resultadoParImpar){
+                    System.out.println("Numero é Par");
+                }else {
+                    System.out.println("Numero é Impar");
+                }
                 break;
             case 4:
                 System.out.println("Opcao 4");
+                System.out.println("Escolha DOIS numero: ");
+                double numberUser1 = input.nextDouble();
+                double numberUser2 = input.nextDouble();
+                double resultadoMaiorQue = metodosMain.MetodosMain.maiorEntreDois(numberUser1, numberUser2);
+                System.out.println("Valor maior é: " + resultadoMaiorQue);
+
                 break;
             default:
                 System.out.println("Opço invalida");
