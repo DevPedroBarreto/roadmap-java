@@ -36,14 +36,14 @@ Repositório com os exercícios práticos do meu roadmap de estudos em Java, do 
 **Seção: Métodos**
 
 - [x] [16 - Calculadora completa](nivel1-iniciante/16-calculadora-metodos)
-- [ ] Biblioteca matemática
-- [ ] Sistema de login
+- [x] [17 - Biblioteca matemática](nivel1-iniciante/17-biblioteca-matematica)
+- [x] [18 - Sistema de login](nivel1-iniciante/18-sistema-login)
 
 **Seção: Arrays**
 
-- [ ] Agenda
-- [ ] Controle de estoque
-- [ ] Notas de alunos
+- [x] [19 - Agenda](nivel1-iniciante/19-agenda)
+- [x] [20 - Controle de estoque](nivel1-iniciante/20-cadastro-produto)
+- [x] [21 - Notas de alunos](nivel1-iniciante/21-notas-alunos)
 
 **Seção: Strings**
 
